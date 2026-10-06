@@ -1,0 +1,8 @@
+
+=== COFFEE SHOP RECEIPT ===
+Customer: SYRON ESPIRITU
+Member: true
+Total: $23.00
+Free Drinks Earned: 2
+Is total over 20? true
+===========================
